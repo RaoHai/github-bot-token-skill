@@ -1,0 +1,11 @@
+{
+  "name": "github-bot-token-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for GitHub App token generation",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "optionalDependencies": {
+    "dotenv": "^16.6.1"
+  }
+}

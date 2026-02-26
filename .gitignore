@@ -1,0 +1,14 @@
+# 环境变量
+.env
+
+# 私钥文件
+*.pem
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
